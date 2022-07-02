@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=✨%20Yunjeong!&fontSize=60&animation=fadeIn&fontAlign=77&fontAlignY=30)
+
+
 ### Hi there 👋
 
 <!--
