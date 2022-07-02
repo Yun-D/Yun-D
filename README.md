@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=✨%20Yunjeong!&fontSize=60&animation=fadeIn&fontAlign=77&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=✨%20Yunjeong!&fontSize=60&animation=fadeIn&fontAlign=77&fontAlignY=25&rotate=3)
 
 
 ### Hi there 👋
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yund_272&count_bg=%2389D1B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=b&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Yun-D/Yun-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
