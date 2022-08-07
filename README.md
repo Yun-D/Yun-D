@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yund_272&count_bg=%2389D1B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=b&edge_flat=false)](https://hits.seeyoufarm.com)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yun_d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yund_272&count_bg=%2389D1B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=~&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **Yun-D/Yun-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
