@@ -4,7 +4,7 @@
 ## Hi there 👋
 <p>
 기록으로 기억하는 것을 좋아하는 허윤정 입니다.<br />
-더 나은 경험을 제공하는 UX에 관심이 있습니다.<br />
+더 나은 경험을 제공하는 UI에 관심이 있습니다.<br />
 사용자 가까이에서 따뜻한 서비스를 개발하고 싶습니다.
 </p>
 
@@ -36,7 +36,9 @@
 
 <br /><br />
 
+<div align="center">
+  
+  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yun_d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yun_d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yund_272&count_bg=%2389D1B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=~&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40yund_272&count_bg=%2389D1B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=~&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
